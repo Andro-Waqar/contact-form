@@ -4,7 +4,7 @@ $name = $_POST['name'];
 $visitor_email = $_POST['email'];
 $message = $_POST['messgae'];
 
-$email_from = 'test@softwin.com'
+$email_from = 'https://andro-waqar.github.io/contact-form.github.io/'
 
 $email_subject = 'New form submission'
 
